@@ -15,3 +15,7 @@ seaborn
 spacy
 textatistic
 textblob
+pymongo
+pyspark
+wordcloud
+tensorflow
